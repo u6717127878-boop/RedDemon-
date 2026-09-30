@@ -1,4 +1,3 @@
-# RedDemon-
-a Ultra Simple OSINT / IP / DNS / And More ! 
-Fonctionalities French / Lookup an moreeeee ! 
-
+You Need Python 
+https://www.python.org/
+Discponible On all Platforms
